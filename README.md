@@ -4,7 +4,7 @@ This repository contains supporting data for the manuscript:
 
 "Molecular Modeling Design of Antitrypanosomal Pyrazolone Derivatives Targeting Chagas Disease: QSAR, Docking, Molecular Dynamics and Free Energy Calculations"
 
-The repository includes QSAR input data, docking poses, ADMET predictions, molecular dynamics setup files, processed trajectory data, CPPTRAJ analysis scripts, MM/GBSA input/output files, per-residue decomposition data, and high-resolution figures.
+The repository includes QSAR matrix data, docking poses, MD CPPTRAJ analysis, MM/GBSA input/output files, per-residue decomposition data, and high-resolution figures.
 
 ## Systems
 
